@@ -19,6 +19,8 @@ Formula: (5 – Vd) / R = (Vd – 0) / 1000,
   
 ## Schematic:
 
+<img src="schematic.jpg" style="width:80%" />
+
 ## Summary:
 We are able to measure any resistance between 500 Ω to 2700 Ω successfully using Arduino.
 The value of the unknown resistance is shown in the given display in Ω.
